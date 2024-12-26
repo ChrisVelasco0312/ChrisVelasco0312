@@ -15,7 +15,7 @@ I'm also a vim and NixOS enthusiast.
 #### Projects:
 
 - I'm currently diving into the deeps of TypeScript.
-- Studying coputer science
+- Studying the [OSSU](https://github.com/ossu/computer-science) computer science curriculum
 
 ## Dotfiles
 
